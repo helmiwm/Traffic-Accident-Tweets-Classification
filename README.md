@@ -1,4 +1,4 @@
-# Twitter-Accident-Prediction
+# Twitter-Accident-Classification
 Using Natural Language Processing to clssify whether a tweet is reporting accident or not.
 
 The tweets comes from https://www.kaggle.com/dodyagung/accident
